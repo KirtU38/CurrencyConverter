@@ -1,3 +1,5 @@
+package ru.beloshitsky.currency_converter;
+
 public class Loader {
   
   public static final String URI = "http://www.cbr.ru/scripts/XML_daily.asp";

@@ -1,3 +1,5 @@
+package ru.beloshitsky.currency_converter;
+
 import org.w3c.dom.*;
 import org.xml.sax.SAXException;
 
